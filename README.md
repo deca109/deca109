@@ -83,5 +83,3 @@
 </a>
 <a href="https://github.com/deca109?tab=followers"><img src="https://img.shields.io/github/followers/deca109?label=Followers&style=social" alt="GitHub Badge"></a>
 
-## Snake eating my contributions!
-![snake gif](https://github.com/deca109/deca109/blob/output/github-contribution-grid-snake.gif)
