@@ -65,7 +65,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/deca109/github-readme-activity-graph"><img alt="deca109's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deca109&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![dec109's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deca109&theme=react-dark)](https://github.com/deca109/github-readme-activity-graph)
 
 <br/>
 <br/>
@@ -74,6 +74,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/debopriyo-roy-5abb22256/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.discordapp.com/users/741571351998890055/"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
 
 </p>
 
