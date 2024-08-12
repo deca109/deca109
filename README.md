@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/deca109)**
 
-- 📫 You may contact me thru **debopriyoroy2010@gmail.com**
+- 📫 You may contact me through **debopriyoroy2010@gmail.com**
 
 
 ## 🚀  Learning Languages and Tools:
