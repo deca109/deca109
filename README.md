@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Machine Learning and Generative AI**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
